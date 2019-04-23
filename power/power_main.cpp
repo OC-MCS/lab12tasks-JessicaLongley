@@ -21,7 +21,7 @@ int main()
     cout << temp1 << endl;
 
     int temp2 = power(3, 4);
-    cout << temp2 << endl;
+    cout << temp2 << endl; 
 
     //cout << power(2, 1) << endl;
     //cout << power(2, 0) << endl;
